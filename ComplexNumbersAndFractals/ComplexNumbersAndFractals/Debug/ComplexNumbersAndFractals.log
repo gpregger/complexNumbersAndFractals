@@ -1,0 +1,21 @@
+﻿Build started 16.12.2013 14:39:01.
+     1>Project "C:\Users\Gabriel Pregger\SkyDrive\Office Dateien\Visual Studio 2013\Projects\ComplexNumbersAndFractals\ComplexNumbersAndFractals\ComplexNumbersAndFractals.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt bitmap.cpp
+         bitmap.cpp
+     1>c:\users\gabriel pregger\skydrive\office dateien\visual studio 2013\projects\complexnumbersandfractals\complexnumbersandfractals\bitmap.cpp(188): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\gabriel pregger\skydrive\office dateien\visual studio 2013\projects\complexnumbersandfractals\complexnumbersandfractals\bitmap.cpp(240): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\gabriel pregger\skydrive\office dateien\visual studio 2013\projects\complexnumbersandfractals\complexnumbersandfractals\bitmap.cpp(241): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\gabriel pregger\skydrive\office dateien\visual studio 2013\projects\complexnumbersandfractals\complexnumbersandfractals\bitmap.cpp(243): warning C4244: 'initializing' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\gabriel pregger\skydrive\office dateien\visual studio 2013\projects\complexnumbersandfractals\complexnumbersandfractals\bitmap.cpp(244): warning C4244: 'initializing' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\gabriel pregger\skydrive\office dateien\visual studio 2013\projects\complexnumbersandfractals\complexnumbersandfractals\bitmap.cpp(261): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\gabriel pregger\skydrive\office dateien\visual studio 2013\projects\complexnumbersandfractals\complexnumbersandfractals\bitmap.cpp(263): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gabriel Pregger\SkyDrive\Office Dateien\Visual Studio 2013\Projects\ComplexNumbersAndFractals\Debug\ComplexNumbersAndFractals.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Gabriel Pregger\SkyDrive\Office Dateien\Visual Studio 2013\Projects\ComplexNumbersAndFractals\Debug\ComplexNumbersAndFractals.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gabriel Pregger\SkyDrive\Office Dateien\Visual Studio 2013\Projects\ComplexNumbersAndFractals\Debug\ComplexNumbersAndFractals.lib" /MACHINE:X86 Debug\bitmap.obj
+         Debug\complexnumbers.obj
+         ComplexNumbersAndFractals.vcxproj -> C:\Users\Gabriel Pregger\SkyDrive\Office Dateien\Visual Studio 2013\Projects\ComplexNumbersAndFractals\Debug\ComplexNumbersAndFractals.exe
+     1>Done Building Project "C:\Users\Gabriel Pregger\SkyDrive\Office Dateien\Visual Studio 2013\Projects\ComplexNumbersAndFractals\ComplexNumbersAndFractals\ComplexNumbersAndFractals.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79
